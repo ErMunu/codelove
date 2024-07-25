@@ -1,13 +1,11 @@
  <x-layout>
-    <section class="p-6">
-        <div class="container mx-auto">
-            <header class="flex justify-center">
+    <section class="container mx-auto px-6 h-full flex flex-col" style="max-width: 1000px">
+            <header class="flex">
                 <h1>
-                    <img src="/logo.svg" style="height: 150px;" alt="Code Love" aria-label="Code Love">
+                    <img src="/logo.svg" class="w-80 print:w-40" alt="Code Love" aria-label="Code Love">
                 </h1>
             </header>
 
             <livewire:create-code />
-        </div>
     </section>
 </x-layout>
