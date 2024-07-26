@@ -4,7 +4,7 @@ CodeLove is a Laravel-based web application designed to print coded worksheet fo
 
 ## Live Demo
 
-Visit [codelove.rf.gd](codelove.rf.gd)
+Visit [codelove.rf.gd](https://codelove.rf.gd)
 
 ## Features
 
